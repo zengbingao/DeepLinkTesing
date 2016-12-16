@@ -1,5 +1,5 @@
 # DeepLinkTesing
-an app to tesing the deeplink.
+an app to tesing the deeplink.(using data-binding and lambda to coding)
 
 <b>How To Use?</b>
 
