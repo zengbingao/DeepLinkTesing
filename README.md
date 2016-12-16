@@ -4,6 +4,7 @@ an app to tesing the deeplink.
 <b>How To Use?</b>
 
 1.you must input scheme and host
+<br>
 2.then you can click send
 
 
