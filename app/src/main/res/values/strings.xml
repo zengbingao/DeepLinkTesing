@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeepLinkTesing</string>
+    <string name="scheme">scheme</string>
+    <string name="host">host</string>
+    <string name="path">path</string>
+    <string name="key">key</string>
+    <string name="value">value</string>
+    <string name="text">Your recently sent deeplink:\n \n %1$s </string>
+</resources>
