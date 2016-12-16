@@ -11,3 +11,6 @@ an app to tesing the deeplink.
 
 1.when you need params you can input in key and value.
 and if you need more than one key-value pair,you can input in key item with split by comma. 
+
+<b> This is the demo pic<\b>
+![demo](https://github.com/zengbingao/DeepLinkTesing/blob/master/demo.png)
