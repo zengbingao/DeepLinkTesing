@@ -9,8 +9,10 @@ an app to tesing the deeplink.(using data-binding and lambda to coding)
 
 
 <b>Noted</b>
-
-1.when you need params you can input in key and value.
+<br>
+1.if you need path , you must input the path start with '/' 
+<br>
+2.when you need params , you can input in key and value.
 and if you need more than one key-value pair,you can input in key item with split by comma. 
 
 <b> This is the demo pic</b>
